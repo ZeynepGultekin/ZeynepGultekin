@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hi there, I'm Zeynep 👋
 
 ## About Me
 
-Hi, I'm Zeynep. I'm a Full-Stack Developer who enjoys working with React, Node js. My attention to detail and my harmony with teamwork play an active role in the projects. In addition, my fascination for the world of technology enables me to improve in the field of programming, learn something new every day and share what I have learned.
+I'm a Full-Stack Developer who enjoys working with React, Node js. My fascination for the world of technology enables me to improve in the field of programming, learn something new every day and share what I have learned.
 
 
 - 🔭 I’m currently a Web Development Student at Digital Career Institute.
