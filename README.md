@@ -5,7 +5,7 @@
 I'm a Full-Stack Developer who enjoys working with React, Node js. My fascination for the world of technology enables me to improve in the field of programming, learn something new every day and share what I have learned.
 
 
-- 🔭 I’m currently an Intern at Webit
+- 🔭 I’m currently an Intern at WebIt
 - 🌱 I’m currently learning frontend and backend using Node js, Express js and MongoDB
 - 👯 I’m looking for a Job as a Full-Stack Developer
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zeynep-gultekin/) or  [E-mail](mailto:zeynep.pehlivan@windowslive.com)
